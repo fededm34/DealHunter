@@ -28,15 +28,11 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 
 8. **Recensioni e valutazioni:** Gli utenti possono lasciare recensioni e valutazioni dei prodotti, e visualizzare recensioni di altri utenti.
 
-9. **Carrello degli acquisti:** Gli utenti possono aggiungere prodotti a un carrello virtuale e procedere all'acquisto attraverso l'applicazione.
-
-10. **Integrazione con piattaforme di pagamento:** L'applicazione deve consentire agli utenti di effettuare l'acquisto direttamente attraverso l'applicazione, integrando sistemi di pagamento sicuri.
-
 ## Requisiti Non Funzionali
 
 1. **Prestazioni:** L'applicazione deve essere veloce nel caricamento dei risultati di ricerca e nella visualizzazione dei prezzi.
 
-2. **Sicurezza:** Deve essere garantita la sicurezza dei dati degli utenti e delle transazioni online.
+2. **Sicurezza:** Deve essere garantita la sicurezza dei dati degli utenti.
 
 3. **Disponibilità:** L'applicazione deve essere accessibile in modo affidabile, con una disponibilità elevata.
 
@@ -58,5 +54,4 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 
 - **Fonti di Dati E-commerce:** L'applicazione deve accedere ai dati dei vari siti di e-commerce per ottenere informazioni sui prodotti e prezzi.
 - **Gestione delle Notifiche:** Deve essere implementato un sistema di gestione delle notifiche per inviare avvisi agli utenti in modo tempestivo.
-- **Integrazione con Sistemi di Pagamento:** L'applicazione dovrebbe integrare servizi di pagamento per consentire agli utenti di effettuare acquisti direttamente.
 - **Rispetto delle norme GDPR:** L'applicazione deve rispettare le norme GDPR.
