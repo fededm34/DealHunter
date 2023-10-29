@@ -59,3 +59,4 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 - **Fonti di Dati E-commerce:** L'applicazione deve accedere ai dati dei vari siti di e-commerce per ottenere informazioni sui prodotti e prezzi.
 - **Gestione delle Notifiche:** Deve essere implementato un sistema di gestione delle notifiche per inviare avvisi agli utenti in modo tempestivo.
 - **Integrazione con Sistemi di Pagamento:** L'applicazione dovrebbe integrare servizi di pagamento per consentire agli utenti di effettuare acquisti direttamente.
+- **Rispetto delle norme GDPR:** L'applicazione deve rispettare le norme GDPR.
