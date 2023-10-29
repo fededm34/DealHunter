@@ -58,4 +58,4 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 - **Rispetto delle norme GDPR:** L'applicazione deve rispettare le norme GDPR.
 
 ## Diagramma dei casi d'uso
-![Diagramma dei casi d'uso](https://yuml.me/678f3fae.png)
+![Diagramma dei casi d'uso](https://yuml.me/678f3fae.jpg)
