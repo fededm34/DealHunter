@@ -5,6 +5,7 @@
 - [Requisiti Funzionali](#requisiti-funzionali)
 - [Requisiti Non Funzionali](#requisiti-non-funzionali)
 - [Requisiti di Dominio](#requisiti-di-dominio)
+- [Diagramma dei casi d'uso](#Diagramma-dei-casi-d'uso)
 
 ## Descrizione del Progetto
 
@@ -55,3 +56,6 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 - **Fonti di Dati E-commerce:** L'applicazione deve accedere ai dati dei vari siti di e-commerce per ottenere informazioni sui prodotti e prezzi.
 - **Gestione delle Notifiche:** Deve essere implementato un sistema di gestione delle notifiche per inviare avvisi agli utenti in modo tempestivo.
 - **Rispetto delle norme GDPR:** L'applicazione deve rispettare le norme GDPR.
+
+## Diagramma dei casi d'uso
+![Diagramma dei casi d'uso](https://yuml.me/678f3fae.png)
