@@ -5,7 +5,7 @@
 - [Requisiti Funzionali](#requisiti-funzionali)
 - [Requisiti Non Funzionali](#requisiti-non-funzionali)
 - [Requisiti di Dominio](#requisiti-di-dominio)
-- [Diagramma dei casi d'uso](#diagramma-dei-casi-d&apos;uso)
+- [Diagramma dei casi d'uso](#diagramma-dei-casi-d'uso)
 
 ## Descrizione del Progetto
 
@@ -58,4 +58,5 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 - **Rispetto delle norme GDPR:** L'applicazione deve rispettare le norme GDPR.
 
 ## Diagramma dei casi d'uso
+[<a name="diagramma-dei-casi-d'uso"></a>]
 ![Diagramma dei casi d'uso](https://yuml.me/678f3fae.jpg)
