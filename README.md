@@ -63,9 +63,9 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 ![Diagramma dei casi d'uso](https://yuml.me/678f3fae.jpg)
 
 ## User story
-1. Come utente, voglio poter cercare facilmente prodotti su diversi siti di e-commerce tramite DealHunter.
-2. Come utente, voglio poter confrontare i prezzi dei prodotti cercati su diversi siti di e-commerce tramite DealHunter.
-3. Come utente, voglio poter ricevere notifiche sugli sconti e le offerte speciali per i prodotti che ho cercato tramite DealHunter.
-4. Come utente, voglio poter salvare i prodotti che mi interessano su DealHunter per poterli ritrovare facilmente in seguito.
-5. Come utente, voglio poter monitorare i prezzi storici dei prodotti salvati su DealHunter per capire se ci sono variazioni di prezzo nel tempo.
-6. Come utente, voglio poter impostare notifiche personalizzate su DealHunter, in modo da sapere quando i prezzi dei prodotti raggiungono il mio prezzo desiderato.
+1. Come **utente**, voglio **poter cercare facilmente prodotti su diversi siti di e-commerce tramite DealHunter**.
+2. Come **utente**, voglio **poter confrontare i prezzi dei prodotti cercati su diversi siti di e-commerce tramite DealHunter**.
+3. Come **utente**, voglio **poter ricevere notifiche sugli sconti e le offerte speciali per i prodotti che ho cercato tramite DealHunter**.
+4. Come **utente**, voglio **poter salvare i prodotti che mi interessano su DealHunter** per poterli **ritrovare facilmente in seguito**.
+5. Come **utente**, voglio **poter monitorare i prezzi storici dei prodotti salvati su DealHunter** per capire **se ci sono variazioni di prezzo nel tempo**.
+6. Come **utente**, voglio **poter impostare notifiche personalizzate su DealHunter**, in modo da sapere **quando i prezzi dei prodotti raggiungono il mio prezzo desiderato**.
