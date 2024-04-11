@@ -72,45 +72,45 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 6. Come **utente**, voglio **poter impostare notifiche personalizzate su DealHunter**, in modo da sapere **quando i prezzi dei prodotti raggiungono il mio prezzo desiderato**.
 
 ## WBS
-**Pianificazione e Gestione del Progetto**
-1.1 Definizione degli obiettivi del progetto
-1.2 Creazione del piano di progetto
-1.3 Assegnazione delle risorse
-1.4 Monitoraggio e controllo del progetto
+### 1. Pianificazione e Gestione del Progetto
+   - Definizione degli obiettivi del progetto
+   - Creazione del piano di progetto
+   - Assegnazione delle risorse
+   - Monitoraggio e controllo del progetto
 
-**Analisi e Raccolta dei Requisiti**
-2.1 Identificazione dei requisiti utente
-2.2 Analisi dei requisiti funzionali
-2.3 Analisi dei requisiti non funzionali
-2.4 Analisi dei requisiti di dominio
+### 2. Analisi e Raccolta dei Requisiti
+   - Identificazione dei requisiti utente
+   - Analisi dei requisiti funzionali
+   - Analisi dei requisiti non funzionali
+   - Analisi dei requisiti di dominio
 
-**Sviluppo del Backend**
-3.1 Progettazione dell'architettura del backend
-3.2 Implementazione delle funzionalità del backend
-3.3 Integrazione con le API dei siti di e-commerce
-3.4 Implementazione della gestione dei dati utente
-3.5 Implementazione della sicurezza dei dati
-3.6 Implementazione delle notifiche push e email
-3.7 Implementazione delle funzionalità di backup e ripristino
+### 3. Sviluppo del Backend
+   - Progettazione dell'architettura del backend
+   - Implementazione delle funzionalità del backend
+   - Integrazione con le API dei siti di e-commerce
+   - Implementazione della gestione dei dati utente
+   - Implementazione della sicurezza dei dati
+   - Implementazione delle notifiche push e email
+   - Implementazione delle funzionalità di backup e ripristino
 
-**Sviluppo del Frontend**
-4.1 Progettazione dell'interfaccia utente
-4.2 Implementazione delle pagine e dei componenti frontend
-4.3 Implementazione delle funzionalità di ricerca e confronto prezzi
-4.4 Implementazione delle funzionalità di registrazione e gestione dell'account
-4.5 Implementazione delle funzionalità di gestione delle notifiche e dei preferiti
-4.6 Implementazione delle funzionalità di recensioni e valutazioni
+### 4. Sviluppo del Frontend
+   - Progettazione dell'interfaccia utente
+   - Implementazione delle pagine e dei componenti frontend
+   - Implementazione delle funzionalità di ricerca e confronto prezzi
+   - Implementazione delle funzionalità di registrazione e gestione dell'account
+   - Implementazione delle funzionalità di gestione delle notifiche e dei preferiti
+   - Implementazione delle funzionalità di recensioni e valutazioni
 
-**Test e Qualità**
-5.1 Pianificazione dei test
-5.2 Esecuzione dei test funzionali
-5.3 Esecuzione dei test di usabilità
-5.4 Esecuzione dei test di prestazioni
-5.5 Risoluzione dei bug e delle problematiche emerse dai test
+### 5. Test e Qualità
+   - Pianificazione dei test
+   - Esecuzione dei test funzionali
+   - Esecuzione dei test di usabilità
+   - Esecuzione dei test di prestazioni
+   - Risoluzione dei bug e delle problematiche emerse dai test
 
-**Deploy e Manutenzione**
-6.1 Preparazione per il deployment
-6.2 Deployment dell'applicazione
-6.3 Monitoraggio delle prestazioni e della disponibilità
-6.4 Manutenzione preventiva e correzione dei bug
-6.5 Aggiornamento dell'applicazione secondo feedback utente e nuove funzionalità
+### 6. Deploy e Manutenzione
+   - Preparazione per il deployment
+   - Deployment dell'applicazione
+   - Monitoraggio delle prestazioni e della disponibilità
+   - Manutenzione preventiva e correzione dei bug
+   - Aggiornamento dell'applicazione secondo feedback utente e nuove funzionalità
