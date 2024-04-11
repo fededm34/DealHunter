@@ -7,6 +7,7 @@
 - [Requisiti di Dominio](#requisiti-di-dominio)
 - [Diagramma dei casi d'uso](#diagramma-dei-casi-d'uso)
 - [User story](#user-story)
+- [WBS](#wbs)
 
 ## Descrizione del Progetto
 
@@ -69,3 +70,47 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
 4. Come **utente**, voglio **poter salvare i prodotti che mi interessano su DealHunter** per poterli **ritrovare facilmente in seguito**.
 5. Come **utente**, voglio **poter monitorare i prezzi storici dei prodotti salvati su DealHunter** per capire **se ci sono variazioni di prezzo nel tempo**.
 6. Come **utente**, voglio **poter impostare notifiche personalizzate su DealHunter**, in modo da sapere **quando i prezzi dei prodotti raggiungono il mio prezzo desiderato**.
+
+## WBS
+**Pianificazione e Gestione del Progetto**
+1.1 Definizione degli obiettivi del progetto
+1.2 Creazione del piano di progetto
+1.3 Assegnazione delle risorse
+1.4 Monitoraggio e controllo del progetto
+
+**Analisi e Raccolta dei Requisiti**
+2.1 Identificazione dei requisiti utente
+2.2 Analisi dei requisiti funzionali
+2.3 Analisi dei requisiti non funzionali
+2.4 Analisi dei requisiti di dominio
+
+**Sviluppo del Backend**
+3.1 Progettazione dell'architettura del backend
+3.2 Implementazione delle funzionalità del backend
+3.3 Integrazione con le API dei siti di e-commerce
+3.4 Implementazione della gestione dei dati utente
+3.5 Implementazione della sicurezza dei dati
+3.6 Implementazione delle notifiche push e email
+3.7 Implementazione delle funzionalità di backup e ripristino
+
+**Sviluppo del Frontend**
+4.1 Progettazione dell'interfaccia utente
+4.2 Implementazione delle pagine e dei componenti frontend
+4.3 Implementazione delle funzionalità di ricerca e confronto prezzi
+4.4 Implementazione delle funzionalità di registrazione e gestione dell'account
+4.5 Implementazione delle funzionalità di gestione delle notifiche e dei preferiti
+4.6 Implementazione delle funzionalità di recensioni e valutazioni
+
+**Test e Qualità**
+5.1 Pianificazione dei test
+5.2 Esecuzione dei test funzionali
+5.3 Esecuzione dei test di usabilità
+5.4 Esecuzione dei test di prestazioni
+5.5 Risoluzione dei bug e delle problematiche emerse dai test
+
+**Deploy e Manutenzione**
+6.1 Preparazione per il deployment
+6.2 Deployment dell'applicazione
+6.3 Monitoraggio delle prestazioni e della disponibilità
+6.4 Manutenzione preventiva e correzione dei bug
+6.5 Aggiornamento dell'applicazione secondo feedback utente e nuove funzionalità
