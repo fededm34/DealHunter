@@ -114,3 +114,11 @@ DealHunter è un'applicazione web che consente agli utenti di cercare, confronta
    - Monitoraggio delle prestazioni e della disponibilità
    - Manutenzione preventiva e correzione dei bug
    - Aggiornamento dell'applicazione secondo feedback utente e nuove funzionalità
+
+
+## Marketplace interattivo - PIVOT:
+        1. Inclusione di venditori: Permetti ai venditori di creare profili e caricare i loro prodotti sulla piattaforma. Questo può includere venditori sia di piccole che di grandi dimensioni, consentendo una vasta gamma di prodotti disponibili agli acquirenti.
+        2. Gestione delle transazioni: Offri strumenti per gestire le transazioni, inclusi pagamenti sicuri e sistema di valutazione per venditori e acquirenti. Garantire una piattaforma sicura e affidabile è fondamentale per creare fiducia tra gli utenti.
+        3. Interazione diretta: Fornisci agli acquirenti e ai venditori la possibilità di interagire direttamente attraverso la piattaforma. Questo può includere la possibilità di fare domande sui prodotti, negoziare prezzi e discutere delle modalità di consegna.
+        4. Strumenti di gestione delle vendite: Implementa strumenti di gestione delle vendite per i venditori, come analisi delle prestazioni, gestione dell'inventario e strumenti di marketing per promuovere i loro prodotti.
+        5. Politiche e supporto al cliente: Stabilisci chiare politiche per gli acquisti, resi e rimborsi, e assicurati di fornire un supporto clienti dedicato per risolvere eventuali problemi o domande degli utenti.
